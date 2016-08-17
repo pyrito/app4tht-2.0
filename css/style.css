@@ -49,7 +49,7 @@ section:not(:last-child):after {
   display: inline-block;
   line-height: 35px;
   
-  width: 2%;
+  width: 3%;
   
   
   margin: 8px;
@@ -57,7 +57,7 @@ section:not(:last-child):after {
   font-size: 15px;
   position: relative;
   opacity: .999;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .btn-border-o {
