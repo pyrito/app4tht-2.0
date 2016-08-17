@@ -53,7 +53,7 @@ section:not(:last-child):after {
   font-size: 15px;
   position: relative;
   opacity: .999;
-  border-radius: 3px;
+  border-radius: 10px;
 }
 
 .btn-border-o {
