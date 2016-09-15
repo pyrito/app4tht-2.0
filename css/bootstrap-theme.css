@@ -57,6 +57,14 @@ fieldset[disabled] .btn-danger {
 .btn-danger .badge {
   text-shadow: none;
 }
+
+.buttons{
+  padding: 250px 0;
+  margin: 10px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: blue;
+}
+
 .btn:active,
 .btn.active {
   background-image: none;
